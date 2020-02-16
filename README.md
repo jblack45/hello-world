@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Practice Repository
+
+Doing GitHub's general turorial
